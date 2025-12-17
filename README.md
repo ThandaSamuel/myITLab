@@ -25,6 +25,11 @@ My Projects
      <th>Descriptions</th>
     <th>Status</th>
   </tr>
+   <tr>
+    <th>  <a href="https://github.com/ThandaSamuel/Setting-VPN-connection">Setting up a VPN connection <a> </th>
+    <th> Using the Windows Server Management tool, I configure a VPN connection between two machines.</th>
+    <th> <img width="30" height="30" alt="Complete" src="https://github.com/user-attachments/assets/9c750f61-098a-424e-be80-df711bf44cb0" /></th>
+  </tr>
 </table>
 
 
